@@ -1,0 +1,20 @@
+.qb_warning{
+  display: block;
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border: 2px solid #faebcc;
+}
+
+.qb_success{
+  display: block;
+  color: #3c763d;
+  background-color: #dff0d8;
+  border: 2px solid #d6e9c6;
+}
+
+.qb_error{
+  display: block;
+  color: #a94442;
+  background-color: #f2dede;
+  border: 2px solid #ebccd1;
+}
